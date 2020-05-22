@@ -1,0 +1,75 @@
+Jamal Murray;Base;18.8;4.8;3.9;Denver Nuggets
+Gary Harris;Escolta;10.4;2.1;2.9;Denver Nuggets
+Torrey Craig;Alero;5.0;0.7;3.1;Denver Nuggets
+Jerami Grant;AlaPivot;14.6;0.8;6.7;Denver Nuggets
+Nikola Jokic;Pivot;25.1;8.4;13;Denver Nuggets
+Damian Lillard;Base;28.8;7.8;4.3;Portland Trail Blazers
+CJ McCollum;Escolta;21.0;3.0;4.0;Portland Trail Blazers
+Rodney Hood;Alero;9.6;1.3;1.7;Portland Trail Blazers
+Carmelo Anthony;AlaPivot;9.4;1.3;7.5;Portland Trail Blazers
+Hassan Whiteside;Pivot;15.6;3.2;10.4;Portland Trail Blazers
+Donovan Mitchell;Escolta;21.4;3.2;5.0;Utah Jazz
+Mike Conley;Base;15.4;8.6;3.2;Utah Jazz
+Rudy Gobert;Pivot;11.2;1.4;10.2;Utah Jazz
+Bojan Bogdaovic;Alero;20.4;5.0;4.8;Utah Jazz
+Jae Crowder;AlaPivot;11.4;0.8;5.8;Utah Jazz
+Gilgeous Alexander;Escolta;28.6;3.6;8.6;Oklahoma City Thunder
+Chris Paul;Base;22.8;10.6;9.0;Oklahoma City Thunder
+Danillo Gallinardi;Alero;11.6;0.8;5.4;Oklahoma City Thunder
+Steven Adams;Pivot;11.8;1.4;7.2;Oklahoma City Thunder
+Dennis Schroder;Base;13.8;3.4;3.2;Oklahoma City Thunder
+Karl-Anthony Towns;Pivot;24.4;3.4;12.4;Minnesota Timberwolves
+Robert Covington;AlaPivot;10.5;1.5;5.5;Minnesota Timberwolves
+Jarret Culver;Escolta;7.7;1.2;2.9;Minnesota Timberwolves
+Josh Okogie;Alero;18.1;2.5;4.8;Minnesota Timberwolves
+Shabazz Napier;Base;12.1;8.2;2.5;Minnesota Timberwolves
+D Angelo Russel;Base;34.2;4.9;5.2;Golden State Warriors
+Stephen Curry;Base;25.2;5.2;5.7;Golden State Warriors
+Klay Thompson;Escolta;18.8;1.8;3.7;Golden State Warriors
+Draymond Green;AlaPivot;12.5;7.8;9.3;Golden State Warriors
+Andrew Wiggins;Escolta;11.2;4.1;4.2;Golden State Warriors
+Lou Williams;Escolta;20.0;5.4;3.0;LA Clippers
+Kawhi Leonard;Alero;19.8;2.6;6.1;LA Clippers
+Montrezl Harrell;AlaPivot;16.6;2.0;6.5;LA Clippers
+Paul George;Escolta;10.8;3.3;2.8;LA Clippers
+Landry Shamet;Escolta;8.7;0.6;6.5;LA Clippers
+Buddy Hield;Escolta;20.7;2.5;5.0;Sacramento Kings
+De'Aaron Fox;Base;17.3;7.3;3.8;Sacramento Kings
+Marvin Bagley III;AlaPivot;14.9;0.5;1.0;Sacramento Kings
+Harrison Barnes;Alero;11.9;2.4;8.4;Sacramento Kings
+Bogdan Bogdanovic;Escolta;14.1;3.8;3.5;Sacramento Kings
+LeBron James;Alero;27.4;8.3;8.5;Los Angeles Lakers
+Kyle Kuzma;AlaPivot;18.7;2.5;5.5;Los Angeles Lakers
+Anthony Davis;Alero;18.3;3.0;5.1;Los Angeles Lakers
+JaVale McGee;Pivot;12.0;0.7;7.5;Los Angeles Lakers
+Avery Bradley;Base;9.9;5.4;5.3;Los Angeles Lakers
+Devin Booker;Escolta;26.6;6.8;4.1;Phoenix Suns
+Kelly Oubre;Alero;18.0;1.5;4.0;Phoenix Suns
+Deandre Ayton;Pivot;16.3;1.8;10.3;Phoenix Suns
+Dario Saric;AlaPivot;8.2;0.9;4.7;Phoenix Suns
+Ricky Rubio;Escolta;7.9;3.6;1.3;Phoenix Suns
+James Harden;Base;36.1;7.5;6.6;Houston Rockets
+Danuel House;Alero;7.3;1.2;5.8;Houston Rockets
+Clint Capela;Pivot;16.6;1.4;12.7;Houston Rockets
+Russel Westbrook;Base;15.6;8.2;4.6;Houston Rockets
+Eric Gordon;Escolta;16.2;1.9;2.2;Houston Rockets
+DeMar DeRozan;Escolta;22.0;4.6;6.7;San Antonio Spurs
+LaMarcus Aldridge;Pivot;20.0;2.7;9.6;San Antonio Spurs
+Bryn Forbes;Escolta;10.7;1.0;3.6;San Antonio Spurs
+Derrick White;Base;15.1;3.0;3.0;San Antonio Spurs
+Rudy Gay;Alero;11.1;1.7;7.1;San Antonio Spurs
+Ja Morant;Base;21.1;6.4;3.4;Memphis Grizzlies
+Jonas Valanciunas;Pivot;19.9;2.2;10.7;Memphis Grizzlies
+Dilon Brooks;Escolta;16.1;4.0;3.1;Memphis Grizzlies
+Jaren Jackson Jr;AlaPivot;13.8;1.1;4.7;Memphis Grizzlies
+Josh Jackson;Base;12.2;5.3;5.4;Memphis Grizzlies
+Zion Williamson;Alero;25.9;3.9;12.0;New Orleans Pelicans
+Brandon Ingram;Pivot;21.4;3.1;8.7;New Orleans Pelicans
+Lonzo Ball;Base;11.9;1.9;2.4;New Orleans Pelicans
+Jrue Holiday;AlaPivot;10.6;7.6;5.2;New Orleans Pelicans
+JJ Redick;Escolta;16.7;1.1;8.3;New Orleans Pelicans
+Luka Doncic;Alero;21.2;6.0;7.8;Dallas Mavericks
+Kristaps Porzingis;AlaPivot;17.7;1.3;4.2;Dallas Mavericks
+Tim Hardaway;Escolta;15.5;1.9;3.2;Dallas Mavericks
+Seth Curry;Base;13.1;2.3;2.3;Dallas Mavericks
+Dwight Powell;Base;12.9;4.3;3.0;Dallas Mavericks
